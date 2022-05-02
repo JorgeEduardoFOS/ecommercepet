@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T21:41:48.614Z" agent="5.0 (X11)" etag="GxTA0RF2goeT35lmA7LI" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T23:44:27.260Z" agent="5.0 (X11)" etag="bTo6WaEBZaOeY1f_iOcC" version="17.5.0" type="github">
   <diagram id="cnTASg5wnEuu9MNxB0QG" name="Page-1">
     <mxGraphModel dx="868" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="seOCv-qq2Y0o12w2nJNq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="seOCv-qq2Y0o12w2nJNq-1" value="Pontos de Vista" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="280" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTCx7hNPBLf14qu5c2Gg-1" value="Administrador" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="LTCx7hNPBLf14qu5c2Gg-4" value="Parceiro" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="590" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LTCx7hNPBLf14qu5c2Gg-5" value="&lt;div&gt;Pontos de vista&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="35" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTCx7hNPBLf14qu5c2Gg-10" value="Transportadora" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="530" y="280" width="120" height="60" as="geometry" />
