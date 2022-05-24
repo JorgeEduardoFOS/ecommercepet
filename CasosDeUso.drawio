@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T21:44:26.325Z" agent="5.0 (X11)" etag="Bt4KaWfXQQPDJJ_p4R9z" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T21:44:46.072Z" agent="5.0 (X11)" etag="rVVGuia9kbbFvMZbbCdo" version="18.0.3" type="github">
   <diagram id="YfoiNxUPI32YgYTlC18Y" name="Page-1">
     <mxGraphModel dx="868" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,9 +215,9 @@
         <mxCell id="hM-VOWL4_1rulBcLeY6O-32" value="Avaliar produtos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="279" y="825" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mX_xieqaY8ShQNDqnQQq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hM-VOWL4_1rulBcLeY6O-33">
+        <mxCell id="mX_xieqaY8ShQNDqnQQq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hM-VOWL4_1rulBcLeY6O-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="720" as="targetPoint" />
+            <mxPoint x="140" y="720" as="targetPoint" />
             <Array as="points">
               <mxPoint x="230" y="800" />
               <mxPoint x="230" y="720" />
