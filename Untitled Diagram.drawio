@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T00:46:48.117Z" agent="5.0 (X11)" etag="HWWsl7ULsmC5y0X0lhKN" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T00:47:46.188Z" agent="5.0 (X11)" etag="8Hn5rDEKd6f-kXPs4cHx" version="19.0.0" type="github">
   <diagram id="RNuVjv1UGwWneKCWqOlv" name="Page-1">
     <mxGraphModel dx="723" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -45,8 +45,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UGDIUITLbsPT5YqN8vNJ-4" value="&lt;div&gt;2 :Busca por termos digitados por&lt;/div&gt;&lt;div&gt;visitante na base de dados do sistema&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry x="-0.0725" y="110" relative="1" as="geometry">
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-4" value="&lt;div&gt;2 :Busca por termos pesquisados&lt;/div&gt;&lt;div&gt;na base de dados do sistema&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0725" y="100" relative="1" as="geometry">
             <mxPoint x="496" y="150" as="sourcePoint" />
             <mxPoint x="496" y="180" as="targetPoint" />
             <Array as="points">
