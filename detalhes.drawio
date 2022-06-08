@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T00:49:25.332Z" agent="5.0 (X11)" version="19.0.0" etag="QxKR8OsLiUPuSWfTBP_d" type="github"><diagram id="eE_6ue5iaBIaWCySbK9c">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-08T00:54:54.182Z" agent="5.0 (X11)" etag="UPlPogH5d5Y0Df1kvYye" version="19.0.0" type="github">
+  <diagram id="eE_6ue5iaBIaWCySbK9c" name="Page-1">
+    <mxGraphModel dx="1021" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sFC9SjDeFBoFBHvGQgBR-1" value="&lt;div&gt;1 :Solicita detalhes do produto&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.08;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sFC9SjDeFBoFBHvGQgBR-2" target="sFC9SjDeFBoFBHvGQgBR-6">
+          <mxGeometry x="0.0045" y="21" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="150" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sFC9SjDeFBoFBHvGQgBR-2" value="&lt;div&gt;«Actor»&lt;/div&gt;&lt;div&gt;:Visitante&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="70" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC9SjDeFBoFBHvGQgBR-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="sFC9SjDeFBoFBHvGQgBR-2">
+          <mxGeometry x="30" y="150" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC9SjDeFBoFBHvGQgBR-4" value="3 :Exibição de Detalhes do produto" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sFC9SjDeFBoFBHvGQgBR-5">
+          <mxGeometry x="0.1182" y="-10" relative="1" as="geometry">
+            <mxPoint x="240" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sFC9SjDeFBoFBHvGQgBR-5" value=":Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="70" width="80" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC9SjDeFBoFBHvGQgBR-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="sFC9SjDeFBoFBHvGQgBR-5">
+          <mxGeometry x="35" y="80" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC9SjDeFBoFBHvGQgBR-8" value="&lt;div&gt;2 :Exibe detalhes do produto&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0725" y="100" relative="1" as="geometry">
+            <mxPoint x="496" y="150" as="sourcePoint" />
+            <mxPoint x="496" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="496" y="150" />
+              <mxPoint x="550" y="150" />
+              <mxPoint x="550" y="180" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
