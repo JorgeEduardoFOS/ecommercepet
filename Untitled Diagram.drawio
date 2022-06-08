@@ -1,13 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T00:33:22.257Z" agent="5.0 (X11)" etag="os9gGKXGZZM-aMeWuBXp" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T00:41:04.291Z" agent="5.0 (X11)" etag="F35ZAwj_9gdBD9YTLw7p" version="19.0.0" type="github">
   <diagram id="RNuVjv1UGwWneKCWqOlv" name="Page-1">
-    <mxGraphModel dx="868" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UGDIUITLbsPT5YqN8vNJ-3" value="1 :Digita busca no campo de busca por texto e solicita busca" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGDIUITLbsPT5YqN8vNJ-1" target="UGDIUITLbsPT5YqN8vNJ-2">
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-3" value="1 :Digita busca no campo de busca por texto e solicita busca" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.08;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UGDIUITLbsPT5YqN8vNJ-1" target="UGDIUITLbsPT5YqN8vNJ-7">
           <mxGeometry x="-0.1011" y="20" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="150" />
               <mxPoint x="330" y="150" />
             </Array>
             <mxPoint as="offset" />
@@ -16,8 +15,12 @@
         <mxCell id="UGDIUITLbsPT5YqN8vNJ-1" value="&lt;div&gt;«Actor»&lt;/div&gt;&lt;div&gt;:Visitante&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="70" width="70" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="UGDIUITLbsPT5YqN8vNJ-6" value="4 :Resultado da busca" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGDIUITLbsPT5YqN8vNJ-2" target="UGDIUITLbsPT5YqN8vNJ-1">
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UGDIUITLbsPT5YqN8vNJ-1">
+          <mxGeometry x="30" y="180" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-6" value="4 :Resultado da busca" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGDIUITLbsPT5YqN8vNJ-2">
           <mxGeometry x="0.5609" y="10" relative="1" as="geometry">
+            <mxPoint x="60" y="250" as="targetPoint" />
             <Array as="points">
               <mxPoint x="270" y="250" />
               <mxPoint x="270" y="250" />
@@ -28,21 +31,28 @@
         <mxCell id="UGDIUITLbsPT5YqN8vNJ-2" value=":Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="70" width="80" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="UGDIUITLbsPT5YqN8vNJ-4" value="2 :Busca por termos digitados por visitante na base de dados do sistema" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGDIUITLbsPT5YqN8vNJ-2" target="UGDIUITLbsPT5YqN8vNJ-2">
-          <mxGeometry x="-0.0763" y="210" relative="1" as="geometry">
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UGDIUITLbsPT5YqN8vNJ-2">
+          <mxGeometry x="35" y="80" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-5" value="3 :Retorna resultado da busca para visitante" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.998;exitY=0.501;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="UGDIUITLbsPT5YqN8vNJ-2" source="UGDIUITLbsPT5YqN8vNJ-7">
+          <mxGeometry y="130" relative="1" as="geometry">
+            <mxPoint x="50" y="130" as="sourcePoint" />
+            <mxPoint x="45" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="150" />
-              <mxPoint x="550" y="180" />
+              <mxPoint x="100" y="130" />
+              <mxPoint x="100" y="160" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UGDIUITLbsPT5YqN8vNJ-5" value="3 :Retorna resultado da busca para visitante" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGDIUITLbsPT5YqN8vNJ-2" target="UGDIUITLbsPT5YqN8vNJ-2">
-          <mxGeometry y="130" relative="1" as="geometry">
-            <mxPoint x="500" y="230" as="targetPoint" />
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-4" value="2 :Busca por termos digitados por visitante na base de dados do sistema" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0763" y="210" relative="1" as="geometry">
+            <mxPoint x="496" y="150" as="sourcePoint" />
+            <mxPoint x="496" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="200" />
-              <mxPoint x="550" y="230" />
+              <mxPoint x="496" y="150" />
+              <mxPoint x="550" y="150" />
+              <mxPoint x="550" y="180" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
