@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T00:54:54.182Z" agent="5.0 (X11)" etag="UPlPogH5d5Y0Df1kvYye" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T00:55:58.076Z" agent="5.0 (X11)" etag="7TF0YCnNEMuzUVjKOJJI" version="19.0.0" type="github">
   <diagram id="eE_6ue5iaBIaWCySbK9c" name="Page-1">
     <mxGraphModel dx="1021" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sFC9SjDeFBoFBHvGQgBR-1" value="&lt;div&gt;1 :Solicita detalhes do produto&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.08;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sFC9SjDeFBoFBHvGQgBR-2" target="sFC9SjDeFBoFBHvGQgBR-6">
-          <mxGeometry x="0.0045" y="21" relative="1" as="geometry">
+          <mxGeometry x="-0.1542" y="21" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="150" />
             </Array>
