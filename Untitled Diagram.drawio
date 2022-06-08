@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T00:00:42.340Z" agent="5.0 (X11)" version="19.0.0" etag="-SIl1DkkAfa4XtIN4L7a" type="github"><diagram id="RNuVjv1UGwWneKCWqOlv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-08T00:33:22.257Z" agent="5.0 (X11)" etag="os9gGKXGZZM-aMeWuBXp" version="19.0.0" type="github">
+  <diagram id="RNuVjv1UGwWneKCWqOlv" name="Page-1">
+    <mxGraphModel dx="868" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-3" value="1 :Digita busca no campo de busca por texto e solicita busca" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGDIUITLbsPT5YqN8vNJ-1" target="UGDIUITLbsPT5YqN8vNJ-2">
+          <mxGeometry x="-0.1011" y="20" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="150" />
+              <mxPoint x="330" y="150" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-1" value="&lt;div&gt;«Actor»&lt;/div&gt;&lt;div&gt;:Visitante&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="70" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-6" value="4 :Resultado da busca" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGDIUITLbsPT5YqN8vNJ-2" target="UGDIUITLbsPT5YqN8vNJ-1">
+          <mxGeometry x="0.5609" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="250" />
+              <mxPoint x="270" y="250" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-2" value=":Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="70" width="80" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-4" value="2 :Busca por termos digitados por visitante na base de dados do sistema" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGDIUITLbsPT5YqN8vNJ-2" target="UGDIUITLbsPT5YqN8vNJ-2">
+          <mxGeometry x="-0.0763" y="210" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="150" />
+              <mxPoint x="550" y="180" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGDIUITLbsPT5YqN8vNJ-5" value="3 :Retorna resultado da busca para visitante" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGDIUITLbsPT5YqN8vNJ-2" target="UGDIUITLbsPT5YqN8vNJ-2">
+          <mxGeometry y="130" relative="1" as="geometry">
+            <mxPoint x="500" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="200" />
+              <mxPoint x="550" y="230" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
