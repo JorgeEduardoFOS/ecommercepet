@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T22:38:24.901Z" agent="5.0 (X11)" etag="Kvcz8rfu4SpDS6V0KOxQ" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T22:47:27.180Z" agent="5.0 (X11)" etag="Jtsnta21dCkOswPfZqQf" version="20.0.3" type="github">
   <diagram id="eE_6ue5iaBIaWCySbK9c" name="Page-1">
     <mxGraphModel dx="868" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,41 +7,54 @@
         <mxCell id="sFC9SjDeFBoFBHvGQgBR-1" value="&lt;div&gt;1 :Solicita detalhes do produto&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.08;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sFC9SjDeFBoFBHvGQgBR-2" target="sFC9SjDeFBoFBHvGQgBR-6" edge="1">
           <mxGeometry x="-0.1542" y="21" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="150" />
+              <mxPoint x="260" y="150" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sFC9SjDeFBoFBHvGQgBR-2" value="&lt;div&gt;«Actor»&lt;/div&gt;&lt;div&gt;:&lt;u&gt;Visitante&lt;/u&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="70" width="70" height="210" as="geometry" />
+          <mxGeometry x="130" y="70" width="70" height="210" as="geometry" />
         </mxCell>
         <mxCell id="sFC9SjDeFBoFBHvGQgBR-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="sFC9SjDeFBoFBHvGQgBR-2" vertex="1">
           <mxGeometry x="30" y="150" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sFC9SjDeFBoFBHvGQgBR-4" value="3 :Exibição de Detalhes do produto" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sFC9SjDeFBoFBHvGQgBR-5" edge="1">
+        <mxCell id="sFC9SjDeFBoFBHvGQgBR-4" value="4 :Exibição de Detalhes do produto" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sFC9SjDeFBoFBHvGQgBR-5" edge="1">
           <mxGeometry x="0.1182" y="-10" relative="1" as="geometry">
-            <mxPoint x="240" y="220" as="targetPoint" />
+            <mxPoint x="170" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="220" />
+              <mxPoint x="170" y="220" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sFC9SjDeFBoFBHvGQgBR-5" value=":&lt;u&gt;Sistema&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="70" width="80" height="210" as="geometry" />
+        <mxCell id="sFC9SjDeFBoFBHvGQgBR-5" value="t:&lt;u&gt;Terminal&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="70" width="80" height="210" as="geometry" />
         </mxCell>
         <mxCell id="sFC9SjDeFBoFBHvGQgBR-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="sFC9SjDeFBoFBHvGQgBR-5" vertex="1">
           <mxGeometry x="35" y="80" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sFC9SjDeFBoFBHvGQgBR-8" value="&lt;div&gt;2 :Exibe detalhes do produto&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="71_Q1x2PJ6GsmB_ZL4Tm-1" value="&lt;div&gt;c:&lt;u&gt;Controlador&lt;/u&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="70" width="90" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Q1x2PJ6GsmB_ZL4Tm-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="71_Q1x2PJ6GsmB_ZL4Tm-1">
+          <mxGeometry x="35" y="80" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Q1x2PJ6GsmB_ZL4Tm-3" value="&lt;div&gt;3 :Exibe detalhes do produto&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="71_Q1x2PJ6GsmB_ZL4Tm-1">
           <mxGeometry x="-0.0725" y="100" relative="1" as="geometry">
-            <mxPoint x="496" y="150" as="sourcePoint" />
-            <mxPoint x="496" y="180" as="targetPoint" />
+            <mxPoint x="45" y="115" as="sourcePoint" />
+            <mxPoint x="45" y="145" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="496" y="150" />
-              <mxPoint x="550" y="150" />
-              <mxPoint x="550" y="180" />
+              <mxPoint x="45" y="115" />
+              <mxPoint x="99" y="115" />
+              <mxPoint x="99" y="145" />
             </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71_Q1x2PJ6GsmB_ZL4Tm-5" value="&lt;div&gt;2 :Solicita detalhes do produto&lt;/div&gt;&lt;div&gt;[registro do produto]&lt;/div&gt;" style="endArrow=classicThin;endFill=1;endSize=12;html=1;rounded=0;exitX=1.3;exitY=0.24;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sFC9SjDeFBoFBHvGQgBR-6">
+          <mxGeometry x="-0.0417" y="24" width="160" relative="1" as="geometry">
+            <mxPoint x="540" y="240" as="sourcePoint" />
+            <mxPoint x="620" y="174" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
