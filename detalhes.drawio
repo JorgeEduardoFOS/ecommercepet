@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T23:39:52.682Z" agent="5.0 (X11)" etag="lcasbCrTNdUMGP7HHr6w" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T23:46:22.451Z" agent="5.0 (X11)" etag="9HotFj-QFBHV3YZ00Av1" version="20.0.3" type="github">
   <diagram id="eE_6ue5iaBIaWCySbK9c" name="Page-1">
-    <mxGraphModel dx="1021" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="413" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,13 +26,6 @@
         </mxCell>
         <mxCell id="71_Q1x2PJ6GsmB_ZL4Tm-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="71_Q1x2PJ6GsmB_ZL4Tm-1" vertex="1">
           <mxGeometry x="40" y="110" width="10" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="71_Q1x2PJ6GsmB_ZL4Tm-5" value="&lt;div&gt;2) .Solicita detalhes do produto&lt;/div&gt;&lt;div&gt;[Id do produto]&lt;/div&gt;" style="endArrow=blockThin;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0417" y="24" width="160" relative="1" as="geometry">
-            <mxPoint x="430" y="174" as="sourcePoint" />
-            <mxPoint x="620" y="174" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="71_Q1x2PJ6GsmB_ZL4Tm-3" value="&lt;div&gt;3) .Pesquisa produto&lt;/div&gt;&lt;div&gt;[Id do produto]&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" edge="1">
           <mxGeometry y="76" relative="1" as="geometry">
@@ -74,6 +67,12 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="410" y="320" as="sourcePoint" />
             <mxPoint x="165" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iokI9-kfcJKbSi2bIdjo-1" value="&lt;div&gt;2) .Solicita detalhes do produto&lt;/div&gt;&lt;div&gt;[Id do produto]&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.914;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sFC9SjDeFBoFBHvGQgBR-6" target="71_Q1x2PJ6GsmB_ZL4Tm-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="430" y="190" as="sourcePoint" />
+            <mxPoint x="620" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
