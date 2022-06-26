@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T22:48:09.354Z" agent="5.0 (X11)" etag="zM5h6VZ0GVy9FEXRYGIs" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T22:49:31.758Z" agent="5.0 (X11)" etag="LC_aY13_N18HsHuC1F3G" version="20.0.3" type="github">
   <diagram id="eE_6ue5iaBIaWCySbK9c" name="Page-1">
     <mxGraphModel dx="868" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,8 +39,8 @@
         <mxCell id="71_Q1x2PJ6GsmB_ZL4Tm-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="71_Q1x2PJ6GsmB_ZL4Tm-1">
           <mxGeometry x="35" y="80" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="71_Q1x2PJ6GsmB_ZL4Tm-3" value="&lt;div&gt;3 :Exibe detalhes do produto&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="71_Q1x2PJ6GsmB_ZL4Tm-1">
-          <mxGeometry x="-0.0725" y="100" relative="1" as="geometry">
+        <mxCell id="71_Q1x2PJ6GsmB_ZL4Tm-3" value="&lt;div&gt;3 :Pesquisa produto&lt;/div&gt;&lt;div&gt;[regsitro do produto]&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="71_Q1x2PJ6GsmB_ZL4Tm-1">
+          <mxGeometry y="76" relative="1" as="geometry">
             <mxPoint x="45" y="115" as="sourcePoint" />
             <mxPoint x="45" y="145" as="targetPoint" />
             <Array as="points">
