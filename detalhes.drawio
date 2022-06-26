@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T22:47:27.180Z" agent="5.0 (X11)" etag="Jtsnta21dCkOswPfZqQf" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T22:48:09.354Z" agent="5.0 (X11)" etag="zM5h6VZ0GVy9FEXRYGIs" version="20.0.3" type="github">
   <diagram id="eE_6ue5iaBIaWCySbK9c" name="Page-1">
     <mxGraphModel dx="868" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sFC9SjDeFBoFBHvGQgBR-1" value="&lt;div&gt;1 :Solicita detalhes do produto&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.08;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sFC9SjDeFBoFBHvGQgBR-2" target="sFC9SjDeFBoFBHvGQgBR-6" edge="1">
+        <mxCell id="sFC9SjDeFBoFBHvGQgBR-1" value="&lt;div&gt;1 :Solicita detalhes do produto&lt;/div&gt;&lt;div&gt;[registro do produto]&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.08;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sFC9SjDeFBoFBHvGQgBR-2" target="sFC9SjDeFBoFBHvGQgBR-6" edge="1">
           <mxGeometry x="-0.1542" y="21" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="150" />
